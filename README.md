@@ -1,9 +1,4 @@
-🌟Features 
-⭐Real-time Predictions: Get instant salary estimates
-⭐Currency Conversion: Results in both USD and INR
-⭐Visualizations: Interactive charts and graphs
-⭐Comparison Tool: Compare multiple scenarios
-⭐Export Results: Download predictions as CSV
+
 
 
 Lading Page
